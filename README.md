@@ -1,6 +1,16 @@
-## Budget app in react
+## Aplication in react
+
+Application for controlling our money.  
+  
+After entering the incomes and expenses, we can see: the account balance, the amount of paid in and withdrawn money and transaction history.  
+We can also delete transactions.  
+The entered data is stored in local storage.
+  
+The application is still developed.
+  
 ✔ balance  
 ✔ add income/expense  
+✔ delete income/expense  
 ✔ history of transactions  
 ✔ local storage  
 
