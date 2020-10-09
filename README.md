@@ -4,6 +4,8 @@
 ✔ history of transactions  
 ✔ local storage  
 
+![My-money](https://i.imgur.com/jplmV8T.png)
+
 ## Run
 
 In the project directory, you can run:
